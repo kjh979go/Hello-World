@@ -15,3 +15,5 @@ __bold__
     * 상품2
 
 ![GitHub Logo](https://avatars1.githubusercontent.com/u/11878958?v=3&s=96)
+
+http://github.com - automatic!
